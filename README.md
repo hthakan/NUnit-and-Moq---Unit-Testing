@@ -8,6 +8,6 @@ Moq, a mocking framework
 
 dotMemoryUnit, a unit test framework for testing memory consumption
 
-ReSharper (its unit test runner) used extensively in this course
+ReSharper (its unit test runner) used extensively in this samples
 
 dotCover is used to illustrate the concepts of code coverage and continuout testing
